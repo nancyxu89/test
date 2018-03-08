@@ -6,15 +6,14 @@ $ git branch
 $ git checkout B message.html message.css message.js other.js
 
 $ git status
-# On branch A
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#    new file:   message.css
-#    new file:   message.html
-#    new file:   message.js
-#    modified:   other.js
-#
+ On branch A
+ Changes to be committed:
+   (use "git reset HEAD <file>..." to unstage)
+   new file:   message.css
+    new file:   message.html
+   new file:   message.js
+   modified:   other.js
+
 
 var1
 var2
